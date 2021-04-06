@@ -7,7 +7,7 @@
       "locale": "de-DE",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
@@ -28,18 +28,9 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.de-DE",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
-    },
-    {
-      "path_to_root": "_repo.en-us",
-      "url": "https://github.com/OpenLocalizationTestOrg/AllLangtest",
-      "branch": "live",
-      "branch_mapping": {
-        "live": "live",
-        "master": "master"
-      }
     }
   ],
   "branch_target_mapping": {},
